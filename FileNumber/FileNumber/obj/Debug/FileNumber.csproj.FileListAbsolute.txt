@@ -1,0 +1,10 @@
+c:\users\semih\source\repos\FileNumber\FileNumber\bin\Debug\FileNumber.exe.config
+c:\users\semih\source\repos\FileNumber\FileNumber\bin\Debug\FileNumber.exe
+c:\users\semih\source\repos\FileNumber\FileNumber\bin\Debug\FileNumber.pdb
+c:\users\semih\source\repos\FileNumber\FileNumber\obj\Debug\FileNumber.csprojResolveAssemblyReference.cache
+c:\users\semih\source\repos\FileNumber\FileNumber\obj\Debug\FileNumber.Form1.resources
+c:\users\semih\source\repos\FileNumber\FileNumber\obj\Debug\FileNumber.Properties.Resources.resources
+c:\users\semih\source\repos\FileNumber\FileNumber\obj\Debug\FileNumber.csproj.GenerateResource.cache
+c:\users\semih\source\repos\FileNumber\FileNumber\obj\Debug\FileNumber.csproj.CoreCompileInputs.cache
+c:\users\semih\source\repos\FileNumber\FileNumber\obj\Debug\FileNumber.exe
+c:\users\semih\source\repos\FileNumber\FileNumber\obj\Debug\FileNumber.pdb
